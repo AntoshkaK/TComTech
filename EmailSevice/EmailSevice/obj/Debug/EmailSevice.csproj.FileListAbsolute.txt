@@ -1,0 +1,9 @@
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\EmailSevice\bin\Debug\EmailSevice.dll
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\EmailSevice\bin\Debug\EmailSevice.pdb
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\EmailSevice\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\EmailSevice\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\EmailSevice\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\EmailSevice\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\EmailSevice\obj\Debug\EmailSevice.dll
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\EmailSevice\obj\Debug\EmailSevice.pdb
+C:\Users\Antoshka\Documents\Visual Studio 2015\Projects\EmailSevice\EmailSevice\obj\Debug\EmailSevice.csprojResolveAssemblyReference.cache

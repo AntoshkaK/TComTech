@@ -1,0 +1,13 @@
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\bin\Debug\ConsoleTest.exe
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\bin\Debug\ConsoleTest.pdb
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\bin\Debug\EmailSevice.dll
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\bin\Debug\microsoft.xrm.client.dll
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\bin\Debug\EmailSevice.pdb
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\obj\Debug\ConsoleTest.exe
+c:\users\antoshka\documents\visual studio 2015\Projects\EmailSevice\ConsoleTest\obj\Debug\ConsoleTest.pdb
